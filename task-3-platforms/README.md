@@ -24,7 +24,7 @@ I created an account on HackerRank and completed the beginner-level challenge , 
 A **Digital Literacy Awareness Quiz** created using Google Forms, designed for batchmates to self-assess their understanding of digital tools and online safety.
 
 ### Google Form Link
-🔗 **[Click here to access the Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdddD4LODuHYCA37qzrZc61zhbb11_z7JHbKYDh8xJuugS4DQ/viewform)**
+🔗 **[Click here to access the Digital Literacy Awareness Quiz(https://docs.google.com/forms/d/e/1FAIpQLScxOAhdgU3IPUyRG5egpDSDN5GD8eURR27RNUdYdhbo5x7RZQ/viewform)**
 
 
 ### Quiz Questions (5 Total)
